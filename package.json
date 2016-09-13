@@ -1,0 +1,27 @@
+{
+  "name": "turf-symdiff",
+  "version": "0.0.1",
+  "description": "Features or portions of features in the input and update features that do not overlap will be written to the output feature class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandergis/turf-symdiff.git"
+  },
+  "keywords": [
+    "turf",
+    "symdiff",
+    "geojson"
+  ],
+  "author": "wandergis <763393390@qq.com> (https://wandergis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wandergis/turf-symdiff/issues"
+  },
+  "homepage": "https://github.com/wandergis/turf-symdiff#readme",
+  "dependencies": {
+    "turf-flatten": "^1.0.0"
+  }
+}
